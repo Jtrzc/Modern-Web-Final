@@ -1,7 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6334787&assignment_repo_type=AssignmentRepo)
 # Matching Game
 
-The goal of the game is to select 2 different cards which are tuened over. If the two cards that you select are matching when flipped, they are removed and counted as a match. The goal is to match all of the cards as fast as possible. Once every card is matched, the game is over and the score is recorded.
+Note: This was a collaborative project and I did not write all of this code, this is just a file upload, a link to the original with all of the contributors can be found here https://github.com/jdmar3-comp426/a99-theteam.
+
+The goal of the game is to select 2 different cards which are turned over. If the two cards that you select are matching when flipped, they are removed and counted as a match. The goal is to match all of the cards as fast as possible. Once every card is matched, the game is over and the score is recorded.
 
 ## Installation Requirements
 
